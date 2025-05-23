@@ -60,7 +60,7 @@ Chandigarh University, Mohali, Punjab
 ## 📫 Get in Touch
 
 - Email: k.vikrant5432@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- LinkedIn: https://www.linkedin.com/in/vikrant-kumar-186b3b196/
 - Location: Lucknow, India
 
 ---
